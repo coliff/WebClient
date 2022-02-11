@@ -55,7 +55,7 @@
     "minimist": "^1.2.0",
     "my-local-ip": "^1.0.0",
     "ngtemplate-loader": "github:dhoko/ngtemplate-loader#feat/angularLoader",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
     "postcss-loader": "^3.0.0",
     "proton-bundler": "github:ProtonMail/proton-bundler#semver:^1.1.0",
