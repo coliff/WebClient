@@ -123,7 +123,7 @@
     "malihu-custom-scrollbar-plugin": "github:ProtonMail/malihu-custom-scrollbar-plugin.git#feat/fixUpdateTimeout",
     "markdown-it": "^8.4.1",
     "mimemessage": "github:ProtonMail/mimemessage.js#semver:~v1.1.4",
-    "moment": "^2.23.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.23",
     "mousetrap": "^1.6.2",
     "ng-intl-tel-input": "^2.0.0",
